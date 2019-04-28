@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\dotNET_module\SI_assignments\first_SI_assignment\create_class\CreateClass\CreateClass\obj\Debug\CreateClass.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\dotNET_module\SI_assignments\first_SI_assignment\create_class\CreateClass\CreateClass\obj\Debug\CreateClass.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\dotNET_module\SI_assignments\first_SI_assignment\create_class\CreateClass\CreateClass\bin\Debug\CreateClass.exe.config
+C:\Users\Administrator\Desktop\dotNET_module\SI_assignments\first_SI_assignment\create_class\CreateClass\CreateClass\bin\Debug\CreateClass.exe
+C:\Users\Administrator\Desktop\dotNET_module\SI_assignments\first_SI_assignment\create_class\CreateClass\CreateClass\bin\Debug\CreateClass.pdb
+C:\Users\Administrator\Desktop\dotNET_module\SI_assignments\first_SI_assignment\create_class\CreateClass\CreateClass\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Administrator\Desktop\dotNET_module\SI_assignments\first_SI_assignment\create_class\CreateClass\CreateClass\bin\Debug\Elasticsearch.Net.dll
+C:\Users\Administrator\Desktop\dotNET_module\SI_assignments\first_SI_assignment\create_class\CreateClass\CreateClass\bin\Debug\Nest.dll
+C:\Users\Administrator\Desktop\dotNET_module\SI_assignments\first_SI_assignment\create_class\CreateClass\CreateClass\bin\Debug\System.IO.Packaging.dll
+C:\Users\Administrator\Desktop\dotNET_module\SI_assignments\first_SI_assignment\create_class\CreateClass\CreateClass\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Administrator\Desktop\dotNET_module\SI_assignments\first_SI_assignment\create_class\CreateClass\CreateClass\bin\Debug\Elasticsearch.Net.xml
+C:\Users\Administrator\Desktop\dotNET_module\SI_assignments\first_SI_assignment\create_class\CreateClass\CreateClass\bin\Debug\Nest.xml
+C:\Users\Administrator\Desktop\dotNET_module\SI_assignments\first_SI_assignment\create_class\CreateClass\CreateClass\obj\Debug\CreateClass.csproj.CopyComplete
+C:\Users\Administrator\Desktop\dotNET_module\SI_assignments\first_SI_assignment\create_class\CreateClass\CreateClass\obj\Debug\CreateClass.exe
+C:\Users\Administrator\Desktop\dotNET_module\SI_assignments\first_SI_assignment\create_class\CreateClass\CreateClass\obj\Debug\CreateClass.pdb
